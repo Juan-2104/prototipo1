@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    background-color: #2f82fd;
+}
+
+.der{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.img{
+    margin: 0;
+}
+
+.space{
+    padding-top: 50px;
+    text-align: justify;
+}
+
+.centro{
+    margin-left: 50px;
+}
+
+.inter{
+    padding-right: 30px;
+    padding-left: 30px ;
+}
+
+.sup{
+    padding-top: 35px;
+}
+
+.boton{
+    background-color: #0d6efd;
+}
+
+.boton2{
+    margin-top: 20px;
+    background-color: #0d6efd;
+}
+
+.gato{
+    padding-top: 100px;
+}
